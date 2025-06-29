@@ -31,10 +31,6 @@ O GPA (Grade Point Average) é um indicador numérico do desempenho acadêmico, 
 
 ---
 
-## 🧱 Estrutura do Repositório
-
-
-
 ---
 
 ## 📈 Principais Descobertas
