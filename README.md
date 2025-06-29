@@ -43,13 +43,6 @@ O GPA (Grade Point Average) é um indicador numérico do desempenho acadêmico, 
 
 ---
 
-## 🚀 Próximos Passos
-
-- Publicar versão Streamlit no Streamlit Cloud
-- Integrar com dados institucionais reais
-- Desenvolver um painel para uso de coordenadores pedagógicos
-
----
 
 ## 👤 Autor
 
